@@ -9,3 +9,14 @@ C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\sho
 C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.AssemblyInfo.cs
 C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.dll
 C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.pdb
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.exe
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.deps.json
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.runtimeconfig.json
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.runtimeconfig.dev.json
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.dll
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\bin\Debug\netcoreapp3.1\shoppingCart.pdb
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\obj\Debug\netcoreapp3.1\shoppingCart.AssemblyInfoInputs.cache
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\obj\Debug\netcoreapp3.1\shoppingCart.AssemblyInfo.cs
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\obj\Debug\netcoreapp3.1\shoppingCart.dll
+C:\Users\Chos\Source\Repos\TDD-Shopping-cart\shoppingCart\shoppingCart\obj\Debug\netcoreapp3.1\shoppingCart.pdb
+C:\Users\Chos\source\repos\TDD-Shopping-cart\shoppingCart\shoppingCart\obj\Debug\netcoreapp3.1\shoppingCart.csprojAssemblyReference.cache

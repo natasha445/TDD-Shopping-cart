@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shoppingCart", "shoppincCart\shoppingCart.csproj", "{60D1BDDC-11B9-45AC-8A0C-1D9E12039CC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shoppingCart", "shoppingCart\shoppingCart.csproj", "{60D1BDDC-11B9-45AC-8A0C-1D9E12039CC9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shoppingCartTest", "..\shoppingCartTest\shoppingCartTest\shoppingCartTest.csproj", "{CCE66943-E6AB-4152-91ED-03AC6AB672F2}"
 EndProject
