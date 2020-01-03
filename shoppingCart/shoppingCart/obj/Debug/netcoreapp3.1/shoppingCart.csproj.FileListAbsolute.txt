@@ -1,0 +1,11 @@
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.exe
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.deps.json
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.runtimeconfig.json
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.runtimeconfig.dev.json
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.dll
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\bin\Debug\netcoreapp3.1\shoppingCart.pdb
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.csprojAssemblyReference.cache
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.AssemblyInfoInputs.cache
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.AssemblyInfo.cs
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.dll
+C:\Users\Usr-Polar\Desktop\shoppincCart\shoppincCart\obj\Debug\netcoreapp3.1\shoppingCart.pdb
